@@ -1,0 +1,66 @@
+.sidebar {
+    width: 250px;
+    min-height: 100%;
+    max-height: 100%;
+}
+
+.report-header {
+    height: 13vh;
+}
+
+.main-header {
+    background-color: #eee;
+}
+
+.report-list {
+    height: 87vh;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.report-list-item {
+    height: 53px;
+    font-size: 12px;
+}
+
+.small {
+    -ms-transform: scale(0.8, 0.8);
+    /* IE 9 */
+    -webkit-transform: scale(0.8, 0.8);
+    /* Safari and Chrome */
+    -o-transform: scale(0.8, 0.8);
+    /* Opera */
+    -moz-transform: scale(0.8, 0.8);
+    /* Firefox */
+    transform: scale(0.8, 0.8);
+}
+
+.cut-text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 125%;
+    white-space: nowrap;
+}
+
+.h4 {
+    color: #337ab7;
+    padding-left: 5px;
+}
+
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.no-border {
+    border: none;
+    background-color: transparent;
+}
+
+.secondary-header {
+    color: #ccc;
+    font-size: 11px;
+}
