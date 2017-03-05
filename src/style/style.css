@@ -4,16 +4,12 @@
     max-height: 100%;
 }
 
-.report-header {
-    height: 13vh;
-}
-
 .main-header {
     background-color: #eee;
 }
 
 .report-list {
-    height: 87vh;
+    height: 85vh;
     overflow: hidden;
     overflow-y: scroll;
 }

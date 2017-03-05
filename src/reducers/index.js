@@ -36,7 +36,7 @@ export default function (state = null, action) {
         reports: [],
         visibleReports: [],
         reportsAmount: 0,
-        showSidebar: true,
+        showSidebar: false,
         sortAsc: true
       };
   }
