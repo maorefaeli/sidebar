@@ -1,7 +1,6 @@
 # sidebar
 sidebar
 
-npm install
-npm start
+npm install && start
 
-run on http://localhost:8080
+http://localhost:8080
