@@ -1,5 +1,4 @@
 # sidebar
-sidebar
 
 npm install && start
 
